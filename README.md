@@ -24,7 +24,7 @@ To set up the project locally, follow these steps:
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/sanniv0/VeriFact-AI
     ```
 2.  **Install dependencies**:
     ```bash
@@ -46,7 +46,13 @@ To set up the project locally, follow these steps:
 
 ## Usage
 
-(Details on how to use the application will go here once the core features are implemented and stable.)
+The Fire_VeriFact AI application is deployed and live on Appwrite Sites. You can access it directly via the following URL:
+
+[Live Application](https://verifact-ai.appwrite.network)
+
+
+
+Simply navigate to the URL in your web browser to start using the application. For more details on specific features, please refer to the relevant sections of this README.
 
 ## Deployment
 
@@ -54,7 +60,7 @@ This application can be deployed to platforms like Appwrite Sites, which support
 
 ## Contributing
 
-We welcome contributions! Please see our `CONTRIBUTING.md` (if available) for guidelines on how to contribute to this project.
+We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
 
 ## License
 
