@@ -14,7 +14,7 @@ export default function AnalyzerPage() {
               Combat Misinformation with AI
             </h2>
             <p className="mt-4 text-lg text-muted-foreground max-w-3xl mx-auto">
-              Analyze text or links to detect potential misinformation, understand why it's misleading, and learn to identify trustworthy content.
+               Analyze text or links to detect potential misinformation, understand why it's misleading, and learn to identify trustworthy content. Some links can't be scanned due to the respective website's security issues so best practice is using Text Input and URL if only required as most content cannot be fetched due to security of the respective websites but some allows so it will work for some.
             </p>
           </div>
 
