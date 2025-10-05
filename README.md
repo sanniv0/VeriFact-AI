@@ -46,7 +46,7 @@ To set up the project locally, follow these steps:
 
 ## Usage
 
-The Fire_VeriFact AI application is deployed and live on Appwrite Sites. You can access it directly via the following URL:
+The VeriFact AI application is deployed and live on Appwrite Sites. You can access it directly via the following URL:
 
 [Live Application](https://verifact-ai.appwrite.network)
 
